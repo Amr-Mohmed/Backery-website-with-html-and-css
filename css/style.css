@@ -111,7 +111,18 @@ body{
     font-family: 'Alegreya', serif;
 }
 .header{
-    background-color: blueviolet;
     text-align: center;
     padding: 20px 0;
+}
+.products{
+    margin-top: 50px;
+}
+.items{
+    
+    width: 33.33%;
+    text-align: center;
+    float: left;
+}
+.items img{
+    width: 80%;
 }
